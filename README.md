@@ -70,3 +70,6 @@ The **Page Replacement Visualizer** is an educational application built to demon
 
 2. **Run the Application**
 Open `index.html` directly in any modern web browser—no external dependencies or build tools required.
+
+**deploy**
+https://page-replacement-visualizor.vercel.app/
